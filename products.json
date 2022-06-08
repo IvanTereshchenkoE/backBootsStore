@@ -1,0 +1,75 @@
+[
+    
+    {
+        "name": "Addidas",
+        "size": 45,
+        "color": "red",
+        "price": 16000
+    },
+    {
+        "name": "Puma",
+        "size": 45,
+        "color": "red",
+        "price": 10020
+    },
+    {
+        "name": "Reebok",
+        "size": 45,
+        "color": "red",
+        "price": 10010
+    },
+    {
+        "name": "Nike",
+        "size": 45,
+        "color": "red",
+        "price": 10020
+    },
+    {
+        "name": "Addidas",
+        "size": 45,
+        "color": "red",
+        "price": 10020
+    },
+    {
+        "name": "Nike",
+        "size": 45,
+        "color": "red",
+        "price": 13000
+    },
+    {
+        "name": "Puma",
+        "size": 45,
+        "color": "red",
+        "price": 1000
+    },
+    {
+        "name": "Nike",
+        "size": 45,
+        "color": "red",
+        "price": 10400
+    },
+    {
+        "name": "Puma",
+        "size": 45,
+        "color": "red",
+        "price": 10600
+    },
+    {
+        "name": "Nike",
+        "size": 45,
+        "color": "red",
+        "price": 10890
+    },
+    {
+        "name": "Reebok",
+        "size": 45,
+        "color": "red",
+        "price": 10000
+    },
+    {
+        "name": "Nike",
+        "size": 45,
+        "color": "red",
+        "price": 15000
+    }
+]
